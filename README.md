@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marlon a 16 year old coder from South Africa.
 - 👀 I’m interested in getting to learn more when it come to programming.
 - 🌱 I’m currently learning/self teaching java script
-- 💞️ I’m looking to collaborate on a few projects with people like my self(junior dev).
+- 💞️ I’m looking to collaborate on a few projects with people like myself(junior dev).
 - 📫 How to reach me: instagram @marlon_g16 
 
 <!---
