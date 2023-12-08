@@ -7,4 +7,4 @@ I'm Marlon, a web developer living in Durban, South Africa.
 * ```Amazon Clone```, created a amazon clone whilst following a tutorial by @SuperSimpleDev
 
 ## Contact Me
-You can reach me at senseislade1@gmail.com.
+You can reach me at <senseislade1@gmail.com>.
